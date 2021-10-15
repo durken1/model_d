@@ -8,7 +8,8 @@ dist:
     y: 21 mm
 
 traces:
-    gnd: 2 mm
+    gnd: 1.3 mm
     drv: 0.8 mm
     sns: 0.8 mm
     mellan: 1 mm
+    trace-pad: 0.6 mm
