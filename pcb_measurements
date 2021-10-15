@@ -1,0 +1,14 @@
+pad:
+    w: 6.3 mm
+    h: 13 mm
+    mellan: 2 mm
+
+dist:
+    x: 19 mm
+    y: 21 mm
+
+traces:
+    gnd: 2 mm
+    drv: 0.8 mm
+    sns: 0.8 mm
+    mellan: 1 mm
