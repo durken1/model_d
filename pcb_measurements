@@ -13,3 +13,5 @@ traces:
     sns: 0.8 mm
     mellan: 1 mm
     trace-pad: 0.6 mm
+
+hela: 244x105
