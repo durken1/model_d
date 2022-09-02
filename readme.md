@@ -7,8 +7,6 @@
 
 The ground plate is important to avoid interference and is to be placed beneath the main pcb.
 
-I have included STL files for a prototype plate that works. One complete and one half for smaller print beds (just flip it and print again).
-
 ## Case
 I have included the STLs (cut to be printable on "normal" sized printers, I used an Ender 3 V2) for my case as well as the step file, so it should be easy to make adjustments to fit your need. 
 I used M3 inserts and screws for attaching stuff (all the 4mm round holes).
